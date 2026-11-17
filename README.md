@@ -2,7 +2,6 @@
 
 Trabalho 02 de Projeto e Análise de Algoritmos.
 
-Matrícula: 516833  
 Linguagem: Python 3
 
 ## Como rodar
